@@ -3,7 +3,7 @@
   <img align="right" src="https://lanyard.cnrad.dev/api/191282958768799744?showDisplayName=true&idleMessage=Kodluyor...&theme=dark&borderRadius=10px" />
 </a>
 
-### Çağrı Bozkurt 👋
+### ÇAĞRI BOZKURT 👋
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Nysscexdev&color=111111&style=for-the-badge&logo=GitHub" />
 
