@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=Nysscexdev&color=111111&style=for-the-badge&logo=GitHub" />
 
 <p>
-💻 Web Developer & Security Specialist<br/>
+💻 Web Developer & Security <br/>
 ⚡ PHP, Node.js, Python ve modern web sistemleri geliştiriyorum.
 </p>
 
