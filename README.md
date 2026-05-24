@@ -15,7 +15,7 @@
 💻 Web Developer & Security <br/>
 ⚡ I develop PHP, Node.js, Python, and modern web systems.
 </p>
-
+---
 ## Tech Stack
 
 <p>
