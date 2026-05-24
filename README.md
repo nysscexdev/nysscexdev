@@ -1,4 +1,3 @@
-
 <a href="https://discord.com/users/191282958768799744">
   <img align="right" src="https://lanyard.cnrad.dev/api/191282958768799744?showDisplayName=true&idleMessage=Kodluyor...&theme=dark&borderRadius=10px" />
 </a>
@@ -15,9 +14,11 @@
 💻 Web Developer & Security <br/>
 ⚡ I develop PHP, Node.js, Python, and modern web systems.
 </p>
+
 ---
+
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,python,flask,mysql,js,html,css," />
+  <img src="https://skillicons.dev/icons?i=php,python,flask,mysql,js,html,css" />
 </p>
