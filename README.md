@@ -9,8 +9,11 @@
 
 <p>
 💻 Web Developer & Security <br/>
-⚡ PHP, Node.js, Python ve modern web sistemleri geliştiriyorum.
+⚡ I develop PHP, Node.js, Python, and modern web systems.
 </p>
 
+## Tech Stack
 
-
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,flask,mysql,js,html,css," />
+</p>
