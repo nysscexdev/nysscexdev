@@ -7,6 +7,10 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Nysscexdev&color=111111&style=for-the-badge&logo=GitHub" />
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nysscex&label=Profile%20Views&color=111111&style=flat" />
+</p>
+
 <p>
 💻 Web Developer & Security <br/>
 ⚡ I develop PHP, Node.js, Python, and modern web systems.
